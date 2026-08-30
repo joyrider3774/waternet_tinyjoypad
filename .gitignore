@@ -1,0 +1,3 @@
+# EEPROM image the TinyJoypad emulator writes next to the hex to keep the
+# game's saved progress between runs
+*.eeprom
